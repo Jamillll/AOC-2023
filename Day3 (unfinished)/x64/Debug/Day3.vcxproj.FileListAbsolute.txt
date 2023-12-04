@@ -1,0 +1,2 @@
+C:\Programs\AOC-2023\Day3\x64\Debug\Day3.exe
+C:\Programs\AOC-2023\Day3 (unfinished)\x64\Debug\Day3.exe

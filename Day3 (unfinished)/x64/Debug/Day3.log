@@ -1,0 +1,35 @@
+﻿  main.cpp
+C:\Programs\AOC-2023\Day3 (unfinished)\main.cpp(27,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Programs\AOC-2023\Day3 (unfinished)\main.cpp(46,21): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Programs\AOC-2023\Day3 (unfinished)\main.cpp(60,25): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Programs\AOC-2023\Day3 (unfinished)\main.cpp(60,22): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Programs\AOC-2023\Day3 (unfinished)\main.cpp(66,25): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Programs\AOC-2023\Day3 (unfinished)\main.cpp(66,22): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Programs\AOC-2023\Day3 (unfinished)\main.cpp(66,66): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Programs\AOC-2023\Day3 (unfinished)\main.cpp(66,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Programs\AOC-2023\Day3 (unfinished)\main.cpp(85,34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Programs\AOC-2023\Day3 (unfinished)\main.cpp(85,26): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Programs\AOC-2023\Day3 (unfinished)\main.cpp(91,34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Programs\AOC-2023\Day3 (unfinished)\main.cpp(91,26): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Programs\AOC-2023\Day3 (unfinished)\main.cpp(91,84): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Programs\AOC-2023\Day3 (unfinished)\main.cpp(91,76): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Programs\AOC-2023\Day3 (unfinished)\main.cpp(96,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Programs\AOC-2023\Day3 (unfinished)\main.cpp(97,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Programs\AOC-2023\Day3 (unfinished)\main.cpp(107,30): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Programs\AOC-2023\Day3 (unfinished)\main.cpp(107,25): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Programs\AOC-2023\Day3 (unfinished)\main.cpp(107,75): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Programs\AOC-2023\Day3 (unfinished)\main.cpp(107,70): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Programs\AOC-2023\Day3 (unfinished)\main.cpp(115,30): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Programs\AOC-2023\Day3 (unfinished)\main.cpp(115,25): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Programs\AOC-2023\Day3 (unfinished)\main.cpp(115,75): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Programs\AOC-2023\Day3 (unfinished)\main.cpp(115,70): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Programs\AOC-2023\Day3 (unfinished)\main.cpp(126,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Programs\AOC-2023\Day3 (unfinished)\main.cpp(126,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Programs\AOC-2023\Day3 (unfinished)\main.cpp(127,26): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Programs\AOC-2023\Day3 (unfinished)\main.cpp(127,21): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Programs\AOC-2023\Day3 (unfinished)\main.cpp(131,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Programs\AOC-2023\Day3 (unfinished)\main.cpp(131,25): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Programs\AOC-2023\Day3 (unfinished)\main.cpp(131,102): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Programs\AOC-2023\Day3 (unfinished)\main.cpp(131,83): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Programs\AOC-2023\Day3 (unfinished)\main.cpp(166,29): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Day3.vcxproj -> C:\Programs\AOC-2023\Day3 (unfinished)\x64\Debug\Day3.exe
