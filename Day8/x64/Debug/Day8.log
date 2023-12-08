@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Programs\AOC-2023\Day8\Source.cpp(99,48): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Programs\AOC-2023\Day8\Source.cpp(118,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Day8.vcxproj -> C:\Programs\AOC-2023\Day8\x64\Debug\Day8.exe
